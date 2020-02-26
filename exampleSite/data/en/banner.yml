@@ -4,10 +4,10 @@ banner:
   bg_image_webp: images/backgrounds/legpose.webp
   bg_image: images/backgrounds/legpose.jpg
   icon: ''
-  title: Experience the new reality
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: Body over macros
+  content: 1 on 1 Personal training, nutritional coaching, completely Online or in
+    person Venice area. Workout plans, custom routines, diets and more.
   button:
     enable: true
-    label: Explore Us
+    label: More info
     link: "#services"
