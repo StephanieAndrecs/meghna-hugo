@@ -1,27 +1,23 @@
-############################# feature ###################################
+---
 feature:
-  enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  enable: true
+  image: images/about/leftweight.JPG
+  image_webp: images/about/leftweight.webp
+  title: I am a personal trainer.
+  content: I'll train you one on one to get the body you desire.
+  feature_item:
+  - title: Fair pricing.
+    icon: ti-world
+    content: I work solo, so there's no need for a corporate profit margin increasing
+      costs.
+  - title: Certified personal trainer.
+    icon: ti-panel
+    content: I'm a certified personal trainer with years of experience.
+  - title: Certified nutrionist, Bachelor in Biomedical Science and chef.
+    icon: ti-stats-up
+    content: I'll have you in the best shape of your life with my custom diets and
+      meal plans all backed by hard work and science.
+  - title: Custom workout routines.
+    icon: ti-announcement
+    content: Custom workout plans and meals all tailor made for your lifestyle, equipment
+      and desired preference of  training.
