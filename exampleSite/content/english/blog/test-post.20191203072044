@@ -2,6 +2,7 @@
 author = "me"
 date = 2020-02-05T08:00:00Z
 description = ""
+draft = true
 image = "/images/IMG_2103-1.JPG"
 image_webp = "/images/IMG_2103.JPG"
 title = "Test post"
