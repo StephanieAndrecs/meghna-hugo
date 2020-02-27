@@ -1,3 +1,4 @@
+---
 - id: blogTitle
   translation: Latest Post
 - id: readMore
@@ -15,4 +16,5 @@
 - id: all
   translation: All
 - id: copyright
-  translation: Copyright Stephanie Andrecs &copy; 2020 Website Powered by Hugo.io Netlify Forestry.io Github Themfisher 1001fonts Icon-icons & Dreamstime. All right reserved.
+  translation: Copyright Stephanie Andrecs &copy; 2020 Website Powered by Hugo.io
+    Netlify Forestry.io Github Themfisher. All right reserved.
