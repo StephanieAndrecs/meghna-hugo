@@ -18,6 +18,10 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+URL = "portfolio"
+name = "Do I even lift?"
+weight = 3
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 7
@@ -31,12 +35,8 @@ name = "Blog"
 weight = 6
 [[menu.main]]
 URL = "team"
-name = "Meet your coach."
+name = "Meet your coach"
 weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
 [[menu.main]]
 URL = "services"
 name = "Service"
