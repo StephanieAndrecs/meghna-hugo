@@ -1,11 +1,11 @@
-############################# call to action ##############################
+---
 cta:
-  enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  enable: true
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  title: Are you ready for your transformation?
+  content: Your dream body is waiting for you, contact now and get a quote.
   button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    enable: true
+    label: Jump right in.
+    link: "#contact"
