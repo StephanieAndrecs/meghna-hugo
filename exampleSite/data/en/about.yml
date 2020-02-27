@@ -3,15 +3,16 @@ about:
   enable: true
   title: About Me
   about_item:
+  - icon: ti-thought
+    title: Fitness & Nutrition coaching
+    content: 'One on one fitness & futrition coaching from me: Stephanie Andrecs a
+      certified Nutritionist and personal trainer through the National Academy of
+      Sports Medicine.'
   - icon: ti-ruler-pencil
     title: Customized Programs
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimos.
   - icon: ti-cup
     title: We're Professional
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
-  - icon: ti-thought
-    title: We're Genius
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimos.
