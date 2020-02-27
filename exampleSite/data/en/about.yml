@@ -1,6 +1,6 @@
 ---
 about:
-  enable: true
+  enable: false
   title: About Me
   about_item:
   - icon: ti-ruler-pencil
