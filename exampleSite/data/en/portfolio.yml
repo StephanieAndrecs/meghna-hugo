@@ -3,11 +3,11 @@ portfolio:
   enable: true
   title: She lift?
   portfolio_item:
-  - name: Tag Design
+  - name: ''
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    content: ''
     link: ''
   - name: Sound system
     image: images/portfolio/portfolio-2.jpg
