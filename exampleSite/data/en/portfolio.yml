@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: 'Do I even lift? '
   portfolio_item:
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
@@ -22,14 +22,6 @@ portfolio:
     image_webp: images/portfolio/portfolio-3.webp
     categories:
     - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    link: "#"
-  - name: Bottol Label
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
-    categories:
-    - photography
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     link: "#"
