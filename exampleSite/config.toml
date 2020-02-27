@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "hi"
+theme = "meghna-hugo"
 title = "Body over macros"
 [Languages.en]
 contentDir = "content/english"
