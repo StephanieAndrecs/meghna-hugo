@@ -1,18 +1,22 @@
 ---
-title: Are test  Doing the Right Way
-date: 2018-09-12T08:51:12.000+00:00
+title: Is spinach healthy?
+date: 2020-01-27T08:00:00+00:00
 image_webp: "/images/spinachhealth.webp"
 image: "/images/spinachhealth.jpg"
-author: John Doe
+author: 'Franziska Spritzler, RD, CDE '
 description: This is meta description
 
 ---
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Spinach provides many health benefits for very few calories.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+About 3.5 ounces (100 grams) of raw spinach contain 2.7 mg of iron, or 15% of the DV (7).
 
-> Design is not just what it looks like and feels like. Design is how it works.
+Although this is non-heme iron, which isn't absorbed very well, spinach is also rich in vitamin C.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+This is important since vitamin C significantly boosts iron absorption (8).
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Spinach is also rich in antioxidants called carotenoids that may reduce your risk of cancer, decrease inflammation, and protect your eyes from disease (9, 10, 11, 12).
+
+Consuming spinach and other leafy greens with fat helps your body absorb the carotenoids, so make sure to eat a healthy fat like olive oil with your spinach (13).
+
+**SUMMARY** Spinach provides 15% of the DV for iron per serving, along with several vitamins and minerals. It also contains important antioxidants.
