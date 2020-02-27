@@ -1,26 +1,23 @@
-################################# Skill ##################################
+---
 skill:
-  enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
-  skill_item :
-    # skill item loop
-    - name :  Business Development
-      percent : 90%
-      
-    # skill item loop
-    - name :  Analysis
-      percent : 70%
-      
-    # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
-      percent : 95%
-      
-    # skill item loop
-    - name :  Andriod Development
-      percent : 75%
+  enable: true
+  title: Our Skills
+  subtitle: We’ve skilled in wide range of programs whether you want to be muscular,
+    thin, or just eat and live better.
+  content: What body or lifestyle suits you? Are you a hardcore bodybuilder trying
+    to break a plateau?  Or just a mom trying to shred a few lbs? Maybe you injured
+    yourself with bad form and just want to make sure that never happens again. Perhaps
+    you want to take your nutrition, health or dieting to the next level backed by
+    science. This is the place for you.
+  image: images/about/company-growth.webp
+  skill_item:
+  - name: Body transformation
+    percent: 100%
+  - name: Muscle building
+    percent: 100%
+  - name: Muscle toning
+    percent: 100%
+  - name: Weightloss
+    percent: 100%
+  - name: Diet & Nutrition
+    percent: 100%
