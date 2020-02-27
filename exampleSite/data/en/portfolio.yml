@@ -3,6 +3,12 @@ portfolio:
   enable: true
   title: She lift?
   portfolio_item:
+  - name: She do
+    image: images/portfolio/leftweight2.jpg
+    image_webp: images/portfolio/leftweight2.webp
+    categories: ''
+    content: ''
+    link: ''
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
