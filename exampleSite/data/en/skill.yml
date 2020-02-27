@@ -21,3 +21,5 @@ skill:
     percent: 100%
   - name: Diet & Nutrition
     percent: 100%
+  - percent: 100%
+    name: Workout form
