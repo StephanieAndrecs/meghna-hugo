@@ -5,19 +5,25 @@ service:
   service_item:
   - name: Personal trainer.
     icon: ti-world
-    content: ''
+    content: Get the body, muscle, weight and health you've always wanted coached
+      by an experienced professional.
   - name: Custom workout routine.
     icon: ti-layout
-    content: ''
+    content: Forget the tedium of trying to put together your own weightlifting, weightloss
+      or fitness routines. Have one tailor made backed by science and experience.
   - name: Custom nutrition plan.
     icon: ti-blackboard
-    content: ''
+    content: You can still eat delicious food and put on muscle, lose weight or attain
+      the body you want. As a certified nutritionist, let me optimize your macros.
   - name: 1 on 1 sessions.
     icon: ti-palette
-    content: ''
+    content: I'll take the time to train you directly, let me be your personal trainer.
   - name: Email, text, phone or in person in L.A. area.
     icon: ti-package
-    content: ''
+    content: Just want a meal plan emailed to you? Or how about a plan to pack on
+      muscle? I'll email it to you via PDF. If not we can do In person in Los Angeles
+      California, or by phone.
   - name: Workout form critique.
     icon: ti-pulse
-    content: ''
+    content: 'Worried you''re doing a certain workout wrong? Have your form corrected
+      by a professional personally. No more injuries, maximum routine optimization. '
