@@ -6,10 +6,9 @@ service:
   - name: Personal trainer.
     icon: ti-world
     content: ''
-  - name: Responsive Design
+  - name: Custom workout routine.
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: ''
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
