@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: She lift?
+  title: About Me
   portfolio_item:
   - name: ''
     image: images/portfolio/portfolio-1.jpg
