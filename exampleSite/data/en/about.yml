@@ -1,12 +1,11 @@
 ---
 about:
   enable: true
-  title: About Me
+  title: About BOM
   about_item:
   - icon: ti-thought
-    title: Fitness & Nutrition coaching
-    content: 'In depth one on one fitness, nutrition training, routines, meal plans
-      and form critique in Los Angeles area in person, online or by phone.
+    title: Customized Workout Programs
+    content: 'I have been in the Fitness industry for more than 6 years now! I want to make a difference! I will customize a program that will get YOU to YOUR GOAL! I don’t believe that every BODY works the same way, there’s not one quick fix for every person!
 
 '
   - icon: ti-ruler-pencil
