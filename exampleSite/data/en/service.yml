@@ -14,13 +14,4 @@ service:
     content: I customize 4 to 8 week programs for my clients! Adjustments can be made along the way, if you progress faster than expected! 
   - name: Nutrition Coaching
     icon: ti-palette
-    content: My Nutrition Coaching is personalized for each of my clients, depending on your needs we can work together with macro coaching, customized Meal plans, or simply coaching for mindful and intuitive eating!
-  - name: Email, text, phone or in person in L.A. area.
-    icon: ti-package
-    content: Just want a meal plan emailed to you? Or how about a plan to pack on
-      muscle? I'll email it to you via PDF. If not we can do In person in Los Angeles
-      California, or by phone.
-  - name: Workout form critique.
-    icon: ti-pulse
-    content: 'Worried you''re doing a certain workout wrong? Have your form corrected
-      by a professional personally. No more injuries, maximum routine optimization. '
+    content: My Nutrition Coaching is personalized for each of my clients, depending on your needs we can work together with macro coaching, customized Meal plans, or simply coaching for mindful and intuitive eating! '
