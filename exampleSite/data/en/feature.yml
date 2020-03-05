@@ -3,20 +3,18 @@ feature:
   enable: true
   image: images/about/leftweight.JPG
   image_webp: images/about/leftweight.webp
-  title: I am a personal trainer.
-  content: I'll train you one on one to get the body you desire.
+  title: Personal Trainer and Fitness Nutrition Specialist
+  content: Do you want to feel healthy and full of energy? And Confident in your daily life? What is the biggest obstacle for you? Nutrition? Stress? Time? I am here to help you with any obstacles on the way!
   feature_item:
-  - title: Fair pricing.
+  - title: Workout Programs
     icon: ti-world
-    content: I work solo, so there's no need for a corporate profit margin increasing
-      costs.
-  - title: Certified personal trainer.
+    content: All my programs are customized for my clients! I will create a workout routine which will help you reach your physical goal and support you with customized 1 on 1 Nutrition Coaching.
+  - title: Nutrition Programs
     icon: ti-panel
-    content: I'm a certified personal trainer with years of experience.
-  - title: Certified nutrionist, Bachelor in Biomedical Science and chef.
+    content: During your free consultation I will get a better understanding of how your Day to Day life looks like, when you wake up, what you eat, what you drink, how many meals a day you eat etc. and then I will customize a nutrition program for you so we can get you to YOUR GOAL!
+  - title: What I can offer you
     icon: ti-stats-up
-    content: I'll have you in the best shape of your life with my custom diets and
-      meal plans all backed by hard work and science.
+    content: I have been overweight, underweight, shredded! I went through all possible body compositions myself. So I understand all parts that play together! Most coaches will be able to help you with the physical part of losing weight or building muscle, getting stronger etc. but I will offer you empathy, support and mindset coaching to get you to your goal!
   - title: Custom workout routines.
     icon: ti-announcement
     content: Custom workout plans and meals all tailor made for your lifestyle, equipment
