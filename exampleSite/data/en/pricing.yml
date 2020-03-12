@@ -11,9 +11,9 @@ pricing:
         - free Consultation
         - on the phone
         - Nutrition Consultation
-        - or Workout Consultation
-        - Goal setting
-        - 
+        - or Workout Consultation 
+        - Goal setting 
+        - Medical History
       button:
         label : "Signup"
         link : "#"
