@@ -19,16 +19,13 @@ pricing:
         link : "#"
       
     # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
+    - name : Personal Training
+      price : $80
+      unit : Session
       services:
-        - 1GB Disk Space
-        - 10 Email Account
+        - Customized Workout Program
+        - Tailored to reach your goal
         - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
       button:
         label : "Signup"
         link : "#"
