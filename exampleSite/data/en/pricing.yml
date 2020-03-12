@@ -23,6 +23,9 @@ pricing:
         - Customized Workout Program
         - Tailored to reach your goal
         - 1 on 1 coaching in Los Angeles
+      button:
+        label : "Contact"
+        link : "#contact"
         
     # pricing table loop
     - name : Online Coaching
@@ -32,6 +35,9 @@ pricing:
         - Customized Workout Plan
         - 4 Week Program
         - Basic Nutrition Coaching
+      button:
+        label : "Contact"
+        link : "#contact"
 
         
     # pricing table loop
@@ -42,3 +48,6 @@ pricing:
         - Personalized Nutrition Coaching
         - Improve Disordered Eating Patterns
         - Customized Nutrition for your Body Goal
+      button:
+        label : "Contact"
+        link : "#contact"
