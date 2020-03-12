@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: About Me
+  title: Transform Yourself
   portfolio_item:
   - name: ''
     image: images/portfolio/portfolio-1.jpg
