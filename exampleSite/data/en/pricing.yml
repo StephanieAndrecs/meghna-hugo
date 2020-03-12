@@ -11,9 +11,6 @@ pricing:
         - Free Consultation
         - Nutrition/Workout Consultation
         - Goal setting
-      button:
-        label : "Signup"
-        link : "#"
       
     # pricing table loop
     - name : Personal Training
@@ -35,9 +32,7 @@ pricing:
         - Customized Workout Plan
         - 4 Week Program
         - Basic Nutrition Coaching
-      button:
-        label : "Signup"
-        link : "#"
+
         
     # pricing table loop
     - name : Online Nutrition Coaching
@@ -47,6 +42,3 @@ pricing:
         - Personalized Nutrition Coaching
         - Improve Disordered Eating Patterns
         - Customized Nutrition for your Body Goal
-      button:
-        label : "Signup"
-        link : "#"
