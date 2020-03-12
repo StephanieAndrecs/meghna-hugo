@@ -11,6 +11,9 @@ pricing:
         - Free Consultation
         - Nutrition/Workout Consultation
         - Goal setting
+      button:
+        label : "Contact"
+        link : "#contact"
       
     # pricing table loop
     - name : Personal Training
