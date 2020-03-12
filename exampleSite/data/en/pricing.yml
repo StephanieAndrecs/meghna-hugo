@@ -1,15 +1,15 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : My Prices
   pricing_table :
     # pricing table loop
     - name : Free
-      price : $99
-      unit : month
+      price : $0
+      unit : 
       services:
-        - 1GB Disk Space
-        - 10 Email Account
+        - free Consultation
+        - on the phone
         - Script Installer
         - 1 GB Storage
         - 10 GB Bandwidth
