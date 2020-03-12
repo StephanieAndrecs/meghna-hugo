@@ -5,13 +5,13 @@ service:
   service_item:
   - name: In Person Coaching 
     icon: ti-world
-    content: I am available for in Person Coaching in Los Angeles. Personal Training on the West Side of Los Angeles and in Person Nutrition Coaching!
+    content: I am available for in Person Coaching in Los Angeles. Personal Training and in Person Nutrition Coaching!
   - name: Online Coaching
     icon: ti-layout
     content: Feel like changing your life from the comfort of your own home? Hop on a call with me! And transform your life!
   - name: Workout Programs
     icon: ti-blackboard
-    content: I customize 4 to 8 week programs for my clients! Adjustments can be made along the way, if you progress faster than expected! 
+    content: I customize 4 week programs for my clients! Adjustments can be made along the way, if you progress faster than expected! 
   - name: Nutrition Coaching
     icon: ti-palette
-    content: My Nutrition Coaching is personalized for each of my clients, depending on your needs we can work together with macro coaching, customized Meal plans, or simply coaching for mindful and intuitive eating! '
+    content: My Coaching is personalized for each of my clients, depending on your needs we can work together with macro coaching, customized meal plans, or simply coaching for mindful and intuitive eating! 
