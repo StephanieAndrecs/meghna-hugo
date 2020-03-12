@@ -6,14 +6,14 @@ pricing:
     # pricing table loop
     - name : Free
       price : $0
-      unit : 
+      unit : First time.
       services:
         - free Consultation
         - on the phone
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Nutrition Consultation
+        - or Workout Consultation
+        - Goal setting
+        - 
       button:
         label : "Signup"
         link : "#"
