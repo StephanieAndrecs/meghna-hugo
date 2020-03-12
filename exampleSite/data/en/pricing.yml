@@ -9,11 +9,8 @@ pricing:
       unit : First time.
       services:
         - Free Consultation
-        - Via Phone
-        - Nutrition Consultation
-        - Or Workout Consultation 
-        - Goal setting 
-        - Medical History
+        - Nutrition/Workout Consultation
+        - Goal setting
       button:
         label : "Signup"
         link : "#"
