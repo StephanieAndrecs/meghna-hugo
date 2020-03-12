@@ -4,14 +4,14 @@ feature:
   image: images/about/leftweight.JPG
   image_webp: images/about/leftweight.webp
   title: Personal Trainer and Fitness Nutrition Specialist
-  content: Do you want to feel healthy and full of energy? And Confident in your daily life? What is the biggest obstacle for you? Nutrition? Stress? Time? I am here to help you with any obstacles on the way!
+  content: Do you want to feel healthy and full of energy? Confident in your daily life? What is the biggest obstacle for you? Nutrition? Stress? Time? Sleep? I am here to help you with any obstacles on the way!
   feature_item:
   - title: Workout Programs
     icon: ti-world
     content: All my programs are customized for my clients! I will create a workout routine which will help you reach your physical goal and support you with customized 1 on 1 Nutrition Coaching.
   - title: Nutrition Programs
     icon: ti-panel
-    content: During your free consultation I will get a better understanding of how your Day to Day life looks like, when you wake up, what you eat, what you drink, how many meals a day you eat etc. and then I will customize a nutrition program for you so we can get you to YOUR GOAL!
+    content: During your free consultation I will get a better understanding of how your Day to Day life looks like, when you wake up, what you eat, what you drink, how many meals a day you eat etc. and then I will customize a fitness and nutrition program for you so we can get you to YOUR GOAL!
   - title: What I can offer you
     icon: ti-stats-up
     content: I have been overweight, underweight, shredded! I went through all possible body compositions myself. So I understand all parts that play together! Most coaches will be able to help you with the physical part of losing weight or building muscle, getting stronger etc. but I will offer you empathy, support and mindset coaching to get you to your goal!
