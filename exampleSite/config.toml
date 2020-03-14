@@ -39,7 +39,7 @@ name = "Service"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "About Me"
+name = "About BOM"
 weight = 1
 [params]
 author = "Themefisher"
