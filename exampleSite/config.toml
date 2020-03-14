@@ -19,7 +19,7 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "Do I even lift?"
+name = "Transform yourself"
 weight = 3
 [[menu.main]]
 URL = "contact"
@@ -86,4 +86,3 @@ link = "https://www.facebook.com/Bodyovermacros-100664781357834/"
 [[params.social]]
 icon = "ti-instagram"
 link = "https://instagram.com/bodyovermacros"
-
