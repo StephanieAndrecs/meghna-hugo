@@ -82,7 +82,7 @@ enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/Bodyovermacros-100664781357834/"
 [[params.social]]
 icon = "ti-instagram"
 link = "https://instagram.com/bodyovermacros"
